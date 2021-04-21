@@ -1,7 +1,17 @@
-#Rios Pascual Angel
+# Rios Pascual Angel
 
-##Quién soy
+## Table of Contents
+1. [General Info](#general-info)
 
-##Trayectoria
+### General Info
+***
+Basic guide about who I am.
 
-##Destino
+Url:
+https://www.linkedin.com/in/pascual-angel-rios-0a3757191/
+
+
+Aspects:
+* Developer
+* DevOps
+* Leader

@@ -1,21 +1,7 @@
+#Rios Pascual Angel
 
-# Rios Pascual Angel
+##Quién soy
 
+##Trayectoria
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
-#Quién soy
-##Desarrollador
-##Devops
-##Líder
-#Trayectoria
 ##Destino
-
-
-
-
-#End

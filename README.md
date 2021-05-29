@@ -8,6 +8,9 @@
 Basic guide about who I am.
 
 Url:
+https://angel0108.github.io/
+
+Linkedin:
 https://www.linkedin.com/in/pascual-angel-rios-0a3757191/
 
 
